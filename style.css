@@ -1,1 +1,16 @@
+html, body {
+    marin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 10px;
+    background-color: #a9a9a9;
+}
+
+body {
+    width: 70%;
+    min-width: 800px;
+    margin: 0 auto;
+}
 
