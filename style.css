@@ -84,13 +84,13 @@ nav {
 
 nav ul {
     padding: 0;
-    list-style-type: none;
     flex: 2;
     display: flex;
 }
 
 nav li {
     display: inline;
+    list-style-type: none;
     text-align: center;
     flex: 1;
 }
