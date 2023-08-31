@@ -1,5 +1,5 @@
 html, body {
-    marin: 0;
+    margin: 0;
     padding: 0;
 }
 
@@ -59,7 +59,7 @@ body > * {
     padding: 1%;
 }
 
-main, header, nay, article, aside, footer, section {
+main, header, nav, article, aside, footer, section {
     background-color: rgba(246, 199, 242, 0.5);
     padding: 1%;
 }
